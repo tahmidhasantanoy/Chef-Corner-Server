@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "chefName": "Gordon Ramsay",
+    "chefImage": "https://thumbs.dreamstime.com/z/frontal-male-passport-photo-isolated-white-background-eu-standardization-frontal-male-passport-photo-isolated-white-149548031.jpg",
+    "experience": "30 years",
+    "numRecipes": 100,
+    "yearsOfExperience": 30,
+    "totalLikes": 5000,
+    "bio": "Gordon Ramsay is a British chef and restaurateur. He has been awarded a total of 16 Michelin stars for his restaurants.",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Julia Child",
+    "chefImage": "https://thumbs.dreamstime.com/z/portrait-man-shot-analog-medium-format-film-analogue-photography-grain-concept-188986211.jpg",
+    "experience": "50 years",
+    "numRecipes": 200,
+    "yearsOfExperience": 50,
+    "totalLikes": 10000,
+    "bio": "Julia Child was an American chef, author, and television personality. She is best known for her cookbook 'Mastering the Art of French Cooking.'",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Anthony Bourdain",
+    "chefImage": "https://thumbs.dreamstime.com/b/teenage-boy-business-suit-24856539.jpg",
+    "experience": "25 years",
+    "numRecipes": 75,
+    "yearsOfExperience": 25,
+    "totalLikes": 2500,
+    "bio": "Anthony Bourdain was an American chef, author, and television personality. He was the host of the travel and food show 'Anthony Bourdain: Parts Unknown.'",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Bobby Flay",
+    "chefImage": "https://thumbs.dreamstime.com/b/fashion-young-businessman-black-suit-29258027.jpg",
+    "experience": "35 years",
+    "numRecipes": 150,
+    "yearsOfExperience": 35,
+    "totalLikes": 8000,
+    "bio": "Bobby Flay is an American chef and television personality. He has hosted several food and cooking shows, including 'Beat Bobby Flay.'",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Ina Garten",
+    "chefImage": "https://thumbs.dreamstime.com/z/portrait-passport-elderly-old-man-mustache-bald-man-plaid-shirt-78973219.jpg",
+    "experience": "20 years",
+    "numRecipes": 80,
+    "yearsOfExperience": 20,
+    "totalLikes": 4000,
+    "bio": "Ina Garten is an American author and host of the Food Network program 'Barefoot Contessa.' She is known for her simple and elegant approach to home cooking.",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Jamie Oliver",
+    "chefImage": "https://thumbs.dreamstime.com/z/man-suit-11509973.jpg",
+    "experience": "20 years",
+    "numRecipes": 80,
+    "yearsOfExperience": 20,
+    "totalLikes": 4000,
+    "bio": "Ina Garten is an American author and host of the Food Network program 'Barefoot Contessa.' She is known for her simple and elegant approach to home cooking.",
+    "recipes": [
+      {
+        "name": "Chicken Fajitas",
+        "ingredients": [
+          "chicken breast",
+          "bell pepper",
+          "onion",
+          "olive oil",
+          "fajita seasoning"
+        ],
+        "method": "1. Heat olive oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned, about 4-5 minutes. 3. Add sliced bell pepper and onion, and cook for another 4-5 minutes. 4. Add fajita seasoning and cook for another 2-3 minutes. 5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Guacamole",
+        "ingredients": ["avocado", "lime", "cilantro", "tomato", "onion"],
+        "method": "1. Cut the avocado in half and remove the pit. 2. Mash the avocado in a bowl. 3. Add lime juice, chopped cilantro, diced tomato, and finely chopped onion. 4. Mix well. 5. Season with salt and pepper to taste. 6. Serve chilled.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Enchiladas",
+        "ingredients": [
+          "ground beef",
+          "tortillas",
+          "enchilada sauce",
+          "cheddar cheese",
+          "onion"
+        ],
+        "method": "1. Preheat oven to 350°F. 2. Brown ground beef in a skillet. 3. Add diced onion and cook until onion is soft. 4. Add enchilada sauce and cook for 5 minutes. 5. In a separate skillet, heat up tortillas until they are pliable. 6. Spread beef mixture on each tortilla and sprinkle with cheddar cheese. 7. Roll up the tortillas and place in a baking dish. 8. Cover with remaining enchilada sauce and cheese. 9. Bake for 20 minutes. 10. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
